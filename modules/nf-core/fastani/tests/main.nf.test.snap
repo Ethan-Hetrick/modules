@@ -1,6 +1,7 @@
 {
     "sarscov2 - referece vs contigs - fastANI - 1 v 1 mode": {
         "content": [
+            "test.txt",
             [
                 [
                     {
@@ -21,12 +22,13 @@
         ],
         "meta": {
             "nf-test": "0.9.3",
-            "nextflow": "25.10.2"
+            "nextflow": "25.10.4"
         },
-        "timestamp": "2026-02-12T18:20:14.95813302"
+        "timestamp": "2026-02-16T17:40:16.311766007"
     },
     "sarscov2 - referece vs contigs - fastANI - all vs all mode": {
         "content": [
+            4,
             {
                 "versions_fastani": [
                     [
@@ -39,9 +41,9 @@
         ],
         "meta": {
             "nf-test": "0.9.3",
-            "nextflow": "25.10.2"
+            "nextflow": "25.10.4"
         },
-        "timestamp": "2026-02-13T12:46:56.303203093"
+        "timestamp": "2026-02-16T17:40:24.137429284"
     },
     "stub": {
         "content": [
@@ -112,8 +114,8 @@
         ],
         "meta": {
             "nf-test": "0.9.3",
-            "nextflow": "25.10.2"
+            "nextflow": "25.10.4"
         },
-        "timestamp": "2026-02-12T18:20:31.13425659"
+        "timestamp": "2026-02-16T17:40:31.747305463"
     }
 }
